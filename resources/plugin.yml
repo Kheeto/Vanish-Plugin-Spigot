@@ -1,0 +1,5 @@
+name: Vanish
+version: ${project.version}
+main: kheeto.vanish.Vanish
+authors: [ Kheeto ]
+description: A simple 1.12.2 plugin to vanish players
